@@ -1,0 +1,136 @@
+body
+{
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.refa
+{
+    margin-top: 2%;
+    margin-left: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    height: 100%;
+}
+
+.refa1
+{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.refa2
+{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.rim
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f87214;
+    height: 50px;
+    text-decoration: none;
+    color: white;
+    width: 365px;
+    gap: 10px;
+    border-radius: 5px;
+}
+
+.rim2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #219c91;
+    height: 50px;
+    text-decoration: none;
+    color: white;
+    width: 360px;
+    border-radius: 5px;
+}
+.rim img
+{
+    height: 30px;
+    width: 30px;
+}
+
+.refa2 input
+{
+    width: 750px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid white;
+    position: relative;
+}
+
+.refa11
+{
+    color: #219c91;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sa
+{
+    position: absolute;
+    left: 2.5%;
+    top: 10.8%;
+}
+
+.elt
+{
+    display: flex;
+   
+ 
+    flex-direction: column;
+    background-color: white;
+    height: 380px;
+    width: 240px;
+    padding: 15px;
+    border-radius: 10px;
+    gap: 10px;
+}
+
+.de
+{
+    margin-top: 22px;
+    color: #219c91;
+    font-weight: bold;
+}
+
+.trv
+{
+    height: 3px;
+    width: 60px;
+    background-color: #219c91;
+}
+.vap
+{
+    color: #219c91;
+    font-weight: bold;
+}
+.deux
+{
+    display: flex;
+    align-items: center;
+    gap:5px;
+    margin-left: -2px;
+}
+
+.gril {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 16px;
+  }
+  

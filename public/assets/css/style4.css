@@ -1,0 +1,140 @@
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.div1 {
+    margin-top: 2%;
+    margin-left: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    height: 100%;
+}
+
+.dir {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.dir img {
+    height: 22px;
+    width: 22px;
+}
+
+.l {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.l1 {
+    color: #219c91;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.refa2s {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.refa2s input {
+    width: 900px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid white;
+    position: relative;
+    padding-left: 35px;
+}
+
+.rim2s {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #219c91;
+    height: 50px;
+    text-decoration: none;
+    color: white;
+    width: 220px;
+    border-radius: 10px;
+    word-spacing: 5px;
+}
+
+.sas {
+    position: absolute;
+    left: 3.2%;
+    top: 13.8%;
+}
+
+.elts {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 355px;
+    width: 240px;
+    padding: 10px;
+    border-radius: 10px;
+    gap: 10px;
+}
+
+.trvs {
+    height: 3px;
+    width: 60px;
+    background-color: #219c91;
+}
+
+.des {
+    margin-top: 22px;
+    color: #219c91;
+    font-weight: bold;
+    font-size: 19.5px;
+}
+
+.elts img {
+    height: 170px;
+    border-radius: 5px;
+}
+
+/* ✅ GRILLE avec 5 colonnes */
+.grills {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* max 5 colonnes */
+    gap: 16px;
+    margin-top: 20px;
+}
+
+/* ✅ PAGINATION */
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.pagination a {
+    text-decoration: none;
+    padding: 8px 14px;
+    background-color: #e0e0e0;
+    color: #333;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.pagination a:hover {
+    background-color: #b8b8b8;
+}
+
+.pagination a.active {
+    background-color: #219c91;
+    color: white;
+}
+

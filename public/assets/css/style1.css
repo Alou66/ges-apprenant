@@ -1,0 +1,389 @@
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.container,
+.stats-container,
+.grills2,
+.tb {
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+
+
+.b
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60%;
+    margin-top: 1%;
+    margin-left: 45px;
+}
+
+.d
+{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.bt
+{
+    height: 40px;
+    width: 200px;
+    background-color: #329a8b;
+    color: white;
+    border: white;
+    border-radius: 5px;
+}
+
+.po
+{
+    color: #329a8b;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.tb 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+    margin-top: 0%;
+    margin-left: 28px;
+}
+
+.tb1
+{
+    height: 150px;
+    width: 282px;
+    background-color: #f97314;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    color: white;
+}
+
+.r
+{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.car
+{
+    display: flex;
+    justify-content: center;
+  
+    flex-direction: column;
+    gap: 10px;
+}
+
+.z
+{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.r img
+{
+    height: 30px;
+    width: 30px;
+}
+
+.divs
+{
+    display: flex ;
+    gap: 30px;
+    /* flex-direction: row; */
+    margin-left: -85px;
+    justify-content: center;
+    align-items: center;
+}
+
+.divs a
+{
+    margin-bottom: 16px;
+    
+}
+
+.grills2 a
+{
+    text-decoration: none;
+}
+
+form {
+    display: flex;
+    gap: 30px;
+    justify-content: center; /* Ajouté */
+    align-items: center;     /* Optionnel mais utile */
+    margin-top: 10px;        /* Pour respirer un peu */
+}
+
+form input {
+    width: 600px; /* Ajuste selon tes préférences */
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.292);
+    margin-left: 0; /* Supprime l'ancien décalage */
+}
+
+.a 
+{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    height: 100%;
+}
+
+form input
+{
+    width: 860px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.292);
+    margin-left: 100px; 
+}
+
+select {
+    width: 95px;
+    height: 45px;
+    padding-left: 2px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.292);
+    background-color: white;
+}
+
+
+.as
+{
+    background-color: #f97314;
+    height: 40px;
+    width: 70px;
+    border-top-left-radius:5px ;
+    border-bottom-left-radius:5px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.as1
+{
+  background-color: white;
+  height: 40px;
+  width: 70px;
+  display: flex;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  margin-top: 10px;
+
+}
+
+.gr
+{
+    background-color: white;
+    height: 315px;
+    width: 355px;
+     border-radius: 10px;
+     display: flex;
+     flex-direction: column;
+     gap: 30px ;
+     justify-content: center;
+     align-items: center;
+}
+
+.grills2
+{
+    margin-left: 40px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px 30px;
+    margin-top: -15px;
+}
+
+.fl1
+{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+    margin-left: 190px;
+    margin-top: -20px;
+    border-radius: 14px;
+}
+
+
+.in 
+{
+    background-color:  rgba(0, 128, 0, 0.43);
+}
+
+.ins
+{
+    height: 30px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 14px;
+}
+
+.svg1
+{
+    height:20px;
+    width: 20px;
+}
+
+.ints
+{
+    height:27px;
+    width: 27px;
+    border-radius: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.int
+{
+    background-color: #c16769;  
+}
+
+.fl2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.im1s
+{
+    height: 55px;
+    width: 55px;
+    border-radius: 55px;
+}
+
+.txt
+{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.txt2
+{
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.svg2
+{
+    height: 25px;
+    width: 25px;
+}
+
+.dt
+{
+    font-size: 20px;
+    color:#b6bcbe;
+}
+.apr
+{
+    background-color: #f7fbfc;
+    height: 45px;
+    width: 295px;
+   display: flex;
+  
+   align-items: center;
+   border-radius: 5px;
+   margin-left: 10px;
+   padding-left: 20px;
+   gap: 10px;
+}
+
+.svg3
+{
+    height: 30px;
+    width: 30px;
+}
+
+.trx1
+{
+    height: 1px;
+    width: 295px; 
+    background-color: rgba(0, 0, 0, 0.111);
+}
+
+.det
+{
+    color: #f57315;
+    text-decoration: none;
+    word-spacing: 3px;
+    margin-left: 200px;
+}
+
+.pagination {
+    text-align: center;
+    margin-top: -40px;
+}
+
+.page-link {
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 2px;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+.page-link:hover {
+    background-color: #e0e0e0;
+}
+
+.page-link.active {
+    background-color: #f57315;
+    color: white;
+    font-weight: bold;
+    border-color: #f57315;
+}
+
+
+/* Style du bouton */
+.bt {
+    background-color: #329a8b;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+   
+  }
+  
+ 
