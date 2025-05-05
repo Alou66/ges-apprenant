@@ -1,7 +1,7 @@
 {
     "stats_globales": {
         "promotion_active_count": 1,
-        "promotion_total_count": 14,
+        "promotion_total_count": 15,
         "nombre_referentiel": 5,
         "nombre_apprenants": 0,
         "nombre_stagiaires": 5,
@@ -16,8 +16,8 @@
             "nombre_apprenants": 120,
             "active": true,
             "referentiels": [
-                "D\u00e9veloppement Web",
-                "R\u00e9f\u00e9rent Digital",
+                "Développement Web",
+                "Référent Digital",
                 "developpement"
             ],
             "id": 1
@@ -30,8 +30,8 @@
             "nombre_apprenants": 140,
             "active": false,
             "referentiels": [
-                "D\u00e9veloppement Web",
-                "R\u00e9f\u00e9rent Digital"
+                "Développement Web",
+                "Référent Digital"
             ],
             "id": 2
         },
@@ -43,7 +43,7 @@
             "nombre_apprenants": 140,
             "active": false,
             "referentiels": [
-                "D\u00e9veloppement Web"
+                "Développement Web"
             ],
             "id": 3
         },
@@ -55,7 +55,7 @@
             "nombre_apprenants": 140,
             "active": false,
             "referentiels": [
-                "D\u00e9veloppement Web"
+                "Développement Web"
             ],
             "id": 4
         },
@@ -67,7 +67,7 @@
             "nombre_apprenants": 0,
             "active": false,
             "referentiels": [
-                "D\u00e9veloppement Web"
+                "Développement Web"
             ],
             "id": 5
         },
@@ -75,11 +75,11 @@
             "nom": "promo322",
             "date_debut": "2025-01-01",
             "date_fin": "2027-01-01",
-            "photo": "assets\/images\/6808b8a75ec86_Capture d\u2019\u00e9cran du 2025-04-03 13-06-30.png",
+            "photo": "assets\/images\/6808b8a75ec86_Capture d’écran du 2025-04-03 13-06-30.png",
             "nombre_apprenants": 0,
             "active": false,
             "referentiels": [
-                "D\u00e9veloppement Web"
+                "Développement Web"
             ],
             "id": 6
         },
@@ -87,11 +87,11 @@
             "nom": "promo9999999",
             "date_debut": "2025-01-01",
             "date_fin": "2026-01-01",
-            "photo": "assets\/images\/6808d7de84505_Capture d\u2019\u00e9cran du 2025-04-03 13-06-30.png",
+            "photo": "assets\/images\/6808d7de84505_Capture d’écran du 2025-04-03 13-06-30.png",
             "nombre_apprenants": 0,
             "active": false,
             "referentiels": [
-                "D\u00e9veloppement Web"
+                "Développement Web"
             ],
             "id": 7
         },
@@ -99,11 +99,11 @@
             "nom": "developpement",
             "date_debut": "2025-02-01",
             "date_fin": "2026-01-01",
-            "photo": "assets\/images\/6808d86be5521_Capture d\u2019\u00e9cran du 2025-04-03 13-06-30.png",
+            "photo": "assets\/images\/6808d86be5521_Capture d’écran du 2025-04-03 13-06-30.png",
             "nombre_apprenants": 0,
             "active": false,
             "referentiels": [
-                "D\u00e9veloppement Web"
+                "Développement Web"
             ],
             "id": 8
         },
@@ -115,8 +115,8 @@
             "nombre_apprenants": 0,
             "active": false,
             "referentiels": [
-                "D\u00e9veloppement Web",
-                "R\u00e9f\u00e9rent Digital"
+                "Développement Web",
+                "Référent Digital"
             ],
             "id": 9
         },
@@ -124,11 +124,11 @@
             "nom": "aaaaaa",
             "date_debut": "2025-04-26",
             "date_fin": "2025-12-26",
-            "photo": "assets\/images\/680cf87087e1f_Capture d\u2019\u00e9cran du 2025-04-22 17-16-30.png",
+            "photo": "assets\/images\/680cf87087e1f_Capture d’écran du 2025-04-22 17-16-30.png",
             "nombre_apprenants": 0,
             "active": false,
             "referentiels": [
-                "R\u00e9f\u00e9rent Digital"
+                "Référent Digital"
             ],
             "id": 10
         },
@@ -136,12 +136,12 @@
             "nom": "oooooo",
             "date_debut": "2025-04-27",
             "date_fin": "2026-04-27",
-            "photo": "assets\/images\/680cf8c875c63_Capture d\u2019\u00e9cran du 2025-04-22 17-16-30.png",
+            "photo": "assets\/images\/680cf8c875c63_Capture d’écran du 2025-04-22 17-16-30.png",
             "nombre_apprenants": 0,
             "active": false,
             "referentiels": [
-                "R\u00e9f\u00e9rent Digital",
-                "D\u00e9veloppement Web",
+                "Référent Digital",
+                "Développement Web",
                 "alassane",
                 "ousseynou",
                 "a",
@@ -153,11 +153,11 @@
             "nom": "bamb",
             "date_debut": "2025-04-01",
             "date_fin": "2025-04-30",
-            "photo": "assets\/images\/680cf8fbb4dc7_Capture d\u2019\u00e9cran du 2025-04-22 17-25-22.png",
+            "photo": "assets\/images\/680cf8fbb4dc7_Capture d’écran du 2025-04-22 17-25-22.png",
             "nombre_apprenants": 0,
             "active": false,
             "referentiels": [
-                "R\u00e9f\u00e9rent Digital"
+                "Référent Digital"
             ],
             "id": 12
         },
@@ -165,48 +165,60 @@
             "nom": "youssouf",
             "date_debut": "2025-04-28",
             "date_fin": "2025-04-29",
-            "photo": "assets\/images\/680fb8bca5b39_Capture d\u2019\u00e9cran du 2025-04-22 17-16-30.png",
+            "photo": "assets\/images\/680fb8bca5b39_Capture d’écran du 2025-04-22 17-16-30.png",
             "nombre_apprenants": 0,
             "active": false,
             "referentiels": [
-                "D\u00e9veloppement Web",
-                "R\u00e9f\u00e9rent Digital"
+                "Développement Web",
+                "Référent Digital"
             ],
             "id": 13
+        },
+        {
+            "nom": "bon",
+            "date_debut": "2027-01-12",
+            "date_fin": "2028-10-12",
+            "photo": "assets\/images\/68186b644f74e_Capture d’écran du 2025-04-23 09-57-40.png",
+            "nombre_apprenants": 0,
+            "active": false,
+            "referentiels": [
+                "Développement Web"
+            ],
+            "id": 14
         }
     ],
     "referentiels": [
         {
-            "nom": "D\u00e9veloppement Web",
-            "description": "Formation au d\u00e9veloppement de sites et applications web.",
+            "nom": "Développement Web",
+            "description": "Formation au développement de sites et applications web.",
             "nombre_modules": 10,
             "nombre_apprenants": 70,
             "photo": "assets\/images\/dev.png"
         },
         {
-            "nom": "R\u00e9f\u00e9rent Digital",
-            "description": "Sp\u00e9cialiste de la communication num\u00e9rique.",
+            "nom": "Référent Digital",
+            "description": "Spécialiste de la communication numérique.",
             "nombre_modules": 8,
             "nombre_apprenants": 50,
             "photo": "assets\/images\/ref1.png"
         },
         {
-            "nom": "R\u00e9f\u00e9rent Digita",
-            "description": "Sp\u00e9cialiste de la communication num\u00e9rique.",
+            "nom": "Référent Digita",
+            "description": "Spécialiste de la communication numérique.",
             "nombre_modules": 8,
             "nombre_apprenants": 50,
             "photo": "assets\/images\/ref1.png"
         },
         {
-            "nom": "R\u00e9f\u00e9rent Digit",
-            "description": "Sp\u00e9cialiste de la communication num\u00e9rique.",
+            "nom": "Référent Digit",
+            "description": "Spécialiste de la communication numérique.",
             "nombre_modules": 8,
             "nombre_apprenants": 50,
             "photo": "assets\/images\/ref1.png"
         },
         {
-            "nom": "R\u00e9f\u00e9rent Digitals",
-            "description": "Sp\u00e9cialiste de la communication num\u00e9rique.",
+            "nom": "Référent Digitals",
+            "description": "Spécialiste de la communication numérique.",
             "nombre_modules": 8,
             "nombre_apprenants": 50,
             "photo": "assets\/images\/ref1.png"
@@ -241,7 +253,7 @@
             "nombre_apprenants": 50,
             "nombre_module": 2,
             "sessions": 1,
-            "photo": "assets\/images\/ref_680faf3762c57_Capture d\u2019\u00e9cran du 2025-04-23 09-20-30.png"
+            "photo": "assets\/images\/ref_680faf3762c57_Capture d’écran du 2025-04-23 09-20-30.png"
         },
         {
             "nom": "A",
@@ -249,7 +261,7 @@
             "nombre_apprenants": 50,
             "nombre_module": 2,
             "sessions": 2,
-            "photo": "assets\/images\/ref_680faf5145d80_Capture d\u2019\u00e9cran du 2025-04-23 09-20-30.png"
+            "photo": "assets\/images\/ref_680faf5145d80_Capture d’écran du 2025-04-23 09-20-30.png"
         }
     ],
     "utilisateurs": [
