@@ -15,10 +15,10 @@
                             
                             <div class="rd1">
                                 <div class="input-group">
-                                    <input type="text" name="search" placeholder=" Rechercher une promotion..." 
+                                    <input class="list" type="text" name="search" placeholder=" Rechercher une promotion..." 
                                            value="<?= htmlspecialchars($pagination_data['search']) ?>">
                                     <!-- <button type="submit" class="btn btn-primary"> -->
-                                        <i class="fas fa-search"></i>
+                                        <!-- <i class="fas fa-search"></i> -->
                                     </button> <!-- ✅ bouton bien ouvert/fermé -->
                                 </div>
 

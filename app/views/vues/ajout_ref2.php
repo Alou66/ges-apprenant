@@ -19,10 +19,10 @@
     <div class="checkbox-group">
       <?php foreach ($promotions_actives as $promo): ?>
         <label>
-          <input type="checkbox" name="promos[]" value="<?= htmlspecialchars($promo['nom']) ?>">
+          <input class="check" type="checkbox" name="promos[]" value="<?= htmlspecialchars($promo['nom']) ?>">
           <?= htmlspecialchars($promo['nom']) ?>
         </label><br>
-      <?php endforeach; ?>
+      <?php endforeach; ?>    
     </div>
 
     <button type="submit">Terminer</button>
